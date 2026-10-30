@@ -1,0 +1,703 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-30T00:23:39.385107+00:00",
+  "scope": "Public GitHub companion publication and exact raw-file transport only. No formal AgentPub, AAES or Publish.fun request.",
+  "repository": "https://github.com/Teylersf/electron-only-equation-agent-publication",
+  "public": true,
+  "discussions_enabled": true,
+  "discussion_category_mutation_performed": false,
+  "initial_public_commit": "ddf8a572c42501d75ea9b9abae6afe80568f820e",
+  "initial_public_tree": "60451c9e87ab5858c3bd90c00fcf244468f14019",
+  "file_count": 92,
+  "all_staged_and_committed_blobs_compared_raw_to_disk": true,
+  "local_git_author": {
+    "name": "Taylor Kalin",
+    "email": "teylersf@gmail.com"
+  },
+  "raw_transport": "Untracked .git/info/attributes sets * -text. All 72 declared mixed-pin inventory copies were force-added despite immutable nested ignore rules. No copied bytes or public attributes were rewritten.",
+  "source_pins": {
+    "computational_H": "83583b1524778b8bb4e5c78482ae7f4f104856cc",
+    "computational_tree": "7bf82539dd5224ec9328dc94848b2a62dc6b4029",
+    "paper_support_release": "459dc1824f2d16fae146be32a7caffba703e5aca",
+    "mixed_pin_copies": 72
+  },
+  "preservation_proof_sha256": "853f83276abbd7aa480e205d3877ac6f5b95fdd3f24d101f5d932931ba2ff8e8",
+  "anonymous_codeload": {
+    "url": "https://codeload.github.com/Teylersf/electron-only-equation-agent-publication/zip/ddf8a572c42501d75ea9b9abae6afe80568f820e",
+    "bytes": 1469739,
+    "sha256": "4fdc5fdd5567f4ead0b7651a3d652492a368ece885d798b37560768c48e13c07",
+    "MD5": "4135303922181c6f450eca38bac3a8e8",
+    "zip_CRC_passed": true,
+    "exact_file_set_and_all_member_bytes_match_Git_blobs": true
+  },
+  "anonymous_raw_files": [
+    "paper.md",
+    "agent-paper.md",
+    "metadata.json",
+    "reproduction/canonical/paper/manuscript.md",
+    "reproduction/canonical/paper/main.pdf",
+    "reproduction/canonical/figures/energy-and-wave-controls.png",
+    "reproduction/canonical/figures/hermite-projection-controls.png"
+  ],
+  "public_default_branch_HEAD_verified": "ddf8a572c42501d75ea9b9abae6afe80568f820e",
+  "http_receipts": [
+    {
+      "request_url": "https://codeload.github.com/Teylersf/electron-only-equation-agent-publication/zip/ddf8a572c42501d75ea9b9abae6afe80568f820e",
+      "http_status": 200,
+      "bytes": 1469739,
+      "sha256": "4fdc5fdd5567f4ead0b7651a3d652492a368ece885d798b37560768c48e13c07",
+      "content_type": "application/zip",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:35.215492+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/paper.md",
+      "http_status": 200,
+      "bytes": 20782,
+      "sha256": "8e8348e562d48090042d6227e0d8df5eb05de0316f8b2c8c5121ca2695e8379b",
+      "content_type": "text/plain; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:35.487264+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/agent-paper.md",
+      "http_status": 200,
+      "bytes": 20782,
+      "sha256": "8e8348e562d48090042d6227e0d8df5eb05de0316f8b2c8c5121ca2695e8379b",
+      "content_type": "text/plain; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:35.764613+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/metadata.json",
+      "http_status": 200,
+      "bytes": 3031,
+      "sha256": "119603e6687f13ab79a5c39d6963c936c35fe85e5ff665131deceafe58e6d0f4",
+      "content_type": "text/plain; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:35.994525+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/reproduction/canonical/paper/manuscript.md",
+      "http_status": 200,
+      "bytes": 20117,
+      "sha256": "370c10f8d113a1d721d177ab879696af185c4f575b01bd4ec10b84f5e1fee131",
+      "content_type": "text/plain; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:36.252439+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/reproduction/canonical/paper/main.pdf",
+      "http_status": 200,
+      "bytes": 350755,
+      "sha256": "5136ca9679d7fc15c2fed36126861c6cd0b878b9072dbe23947504fa3449217c",
+      "content_type": "application/octet-stream",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:36.953362+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/reproduction/canonical/figures/energy-and-wave-controls.png",
+      "http_status": 200,
+      "bytes": 132377,
+      "sha256": "b85c11a18b2bb7f9dc7489e8a1d05949d526461dc6f0fe054963129d17ef0832",
+      "content_type": "image/png",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:37.264124+00:00"
+    },
+    {
+      "request_url": "https://raw.githubusercontent.com/Teylersf/electron-only-equation-agent-publication/ddf8a572c42501d75ea9b9abae6afe80568f820e/reproduction/canonical/figures/hermite-projection-controls.png",
+      "http_status": 200,
+      "bytes": 149791,
+      "sha256": "dd8ce0c15880b167b1f4f19a01aa48b440eae07bab819d90cd27810a2313be50",
+      "content_type": "image/png",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:37.572368+00:00"
+    },
+    {
+      "request_url": "https://api.github.com/repos/Teylersf/electron-only-equation-agent-publication",
+      "http_status": 200,
+      "bytes": 6625,
+      "sha256": "a0e23471f8b5d2476a0a63b27455c5bbdd2cd348d8cdf542cf8523c4f1489e26",
+      "content_type": "application/json; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:38.047524+00:00"
+    },
+    {
+      "request_url": "https://api.github.com/repos/Teylersf/electron-only-equation-agent-publication/commits/main",
+      "http_status": 200,
+      "bytes": 903015,
+      "sha256": "e8e41c0a01bfe7887e8d74b24419530236e60b7d76d88779966f3c76f7d213fc",
+      "content_type": "application/json; charset=utf-8",
+      "authenticated_request": false,
+      "checked_at_utc": "2026-10-30T00:23:39.379550+00:00"
+    }
+  ],
+  "safety": {
+    "private_outgoing_payloads_or_credentials_published": false,
+    "credential_and_private_path_scan_passed": true,
+    "allowed_generic_runtime_locator": "C:/Python 313/python.exe",
+    "allowed_private_name_literals": "Immutable ignore/exclusion patterns and generic validation patterns only; no private operational records."
+  },
+  "formal_review": {
+    "AgentPub_gate_open": false,
+    "AAES_gate_open": false,
+    "formal_agent_submissions_performed": false,
+    "own_Publishfun_final_disposition_certified": false,
+    "acceptance_or_agent_eligibility_claimed": false
+  },
+  "verified_initial_files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 153,
+      "git_blob_sha1": "b4680469e3ed2b52f1fdb3a3cf009009ece9faea",
+      "sha256": "a712899d7306c1b21210545c625530e4f54847d8c4885eb4386aa4551d081ec9"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 29,
+      "git_blob_sha1": "29ace6086fb6173b90ecb10a624c84efa69e4802",
+      "sha256": "7d716af04725b4b653cb82984dad9fa441e39bcddaec1ca8c12a8f67517143af"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "bytes": 1130,
+      "git_blob_sha1": "74c1869e9749b5e3591007e12c787be7f56e0850",
+      "sha256": "2b55fdac5f492dc9cf93bb2b7ed76f20fec2ed91d4ef2b9f7b166f357f347cc8"
+    },
+    {
+      "path": "LICENSE-MANUSCRIPT",
+      "bytes": 696,
+      "git_blob_sha1": "a494209659dfcb74e9059362486601de9c406529",
+      "sha256": "84d37ab80c2aeb4909cba541f40cee10dab8fec720bef6227ae57c3f1fd41e75"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3708,
+      "git_blob_sha1": "42438994dcf5d48091d0c1fac9e0b4f31f193624",
+      "sha256": "43ff0c89e89e2b78a6384bdb93575af2f0cc8c852c1a4eae97b9c650cf143133"
+    },
+    {
+      "path": "agent-paper.md",
+      "bytes": 20782,
+      "git_blob_sha1": "82ed7db82061053d76c48cd11ebb47003050e259",
+      "sha256": "8e8348e562d48090042d6227e0d8df5eb05de0316f8b2c8c5121ca2695e8379b"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 3031,
+      "git_blob_sha1": "b2c6d38668bd92fea3d5bdc0c1b08f138b28e996",
+      "sha256": "119603e6687f13ab79a5c39d6963c936c35fe85e5ff665131deceafe58e6d0f4"
+    },
+    {
+      "path": "paper.md",
+      "bytes": 20782,
+      "git_blob_sha1": "82ed7db82061053d76c48cd11ebb47003050e259",
+      "sha256": "8e8348e562d48090042d6227e0d8df5eb05de0316f8b2c8c5121ca2695e8379b"
+    },
+    {
+      "path": "reproduction/README.md",
+      "bytes": 4270,
+      "git_blob_sha1": "998a9316403bf1c2f6482bebe01c846f828711f0",
+      "sha256": "e5c6b70643e397bdff993261f286962a7579b2c861cf65f7dd14ba8651682e7a"
+    },
+    {
+      "path": "reproduction/adapter-checks.json",
+      "bytes": 37290,
+      "git_blob_sha1": "9965e208c213cbb42116a736ea654b819772375d",
+      "sha256": "ff7de542a6dbff008322b1b65b09e6f97c4309911ddd68d1784e7033a6444d98"
+    },
+    {
+      "path": "reproduction/agentpub-instructions.txt",
+      "bytes": 21503,
+      "git_blob_sha1": "53f6d905c2a5e670aab9e66778f56787442bef96",
+      "sha256": "771252106a551f2d891033af42be14a827a54c86ef8d6274da8b58f62e4eb554"
+    },
+    {
+      "path": "reproduction/agentpub-paper-schema.json",
+      "bytes": 25485,
+      "git_blob_sha1": "83049fe974359620a84261649b34132a8773718d",
+      "sha256": "e62bc0d9369ae2a3b38161340887a7ef08c7736a46ac186f40ffe424b5370847"
+    },
+    {
+      "path": "reproduction/canonical-preservation-v1.0.0.json",
+      "bytes": 37290,
+      "git_blob_sha1": "9965e208c213cbb42116a736ea654b819772375d",
+      "sha256": "ff7de542a6dbff008322b1b65b09e6f97c4309911ddd68d1784e7033a6444d98"
+    },
+    {
+      "path": "reproduction/canonical/.gitattributes",
+      "bytes": 8,
+      "git_blob_sha1": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "reproduction/canonical/.gitignore",
+      "bytes": 83,
+      "git_blob_sha1": "66a350a396925e69d78efed51d1df8c68439432f",
+      "sha256": "cecaba36a97bcc5ce6f69247f95dce5f8908716a4843f2873fd17d9ac00678d0"
+    },
+    {
+      "path": "reproduction/canonical/COMPUTATIONAL_METHODS.md",
+      "bytes": 8637,
+      "git_blob_sha1": "16acce889ba7fc02a0f68da77f34c39d42eef6d1",
+      "sha256": "d2b2555850db0be0611ee85b27a6f76402bbcc5650f9ae5d84ac16910331b2ab"
+    },
+    {
+      "path": "reproduction/canonical/LICENSE-CODE",
+      "bytes": 1130,
+      "git_blob_sha1": "74c1869e9749b5e3591007e12c787be7f56e0850",
+      "sha256": "2b55fdac5f492dc9cf93bb2b7ed76f20fec2ed91d4ef2b9f7b166f357f347cc8"
+    },
+    {
+      "path": "reproduction/canonical/LICENSE-MANUSCRIPT",
+      "bytes": 696,
+      "git_blob_sha1": "a494209659dfcb74e9059362486601de9c406529",
+      "sha256": "84d37ab80c2aeb4909cba541f40cee10dab8fec720bef6227ae57c3f1fd41e75"
+    },
+    {
+      "path": "reproduction/canonical/README.md",
+      "bytes": 2203,
+      "git_blob_sha1": "c6a6ebf0ebf263474fd66d802e5be428e05d9f3c",
+      "sha256": "d242701471af71becb5d4788203d4ad1181dd68ec814bcb8987636da143c4960"
+    },
+    {
+      "path": "reproduction/canonical/REPRODUCIBILITY.md",
+      "bytes": 2078,
+      "git_blob_sha1": "1d1e2ec12fa35ff73d4a22536d5c4bde98fa4605",
+      "sha256": "2e3c9afdca4ff588f40cecf2c8c3bcc57f6918c8eaf5b66c19c3db3a6e6903ca"
+    },
+    {
+      "path": "reproduction/canonical/SOURCE_CONCORDANCE.md",
+      "bytes": 9531,
+      "git_blob_sha1": "0b81fb12727846b327997b03f16b95039c7cc5d8",
+      "sha256": "bbafa8dd919c4ea4944e6064e54c469c0feabd10799d380bb433a50afe5ef480"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-computational-qa.json",
+      "bytes": 4416,
+      "git_blob_sha1": "c856b0248929ae95a37b9871fcee182d1380e056",
+      "sha256": "4832b3bac7bb20e350b7bc7f0ef91f2bfdf9dc5323969337ea6ba72d04af0558"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-computational-qa/checks.json",
+      "bytes": 6449,
+      "git_blob_sha1": "4dbd4dc4577957239ba6b99f900893afc0058ada",
+      "sha256": "47c7d92ffc0e3e5524284eb87335849cd0d1e1552af19433d2cedf87b8e91627"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-computational-qa/review.md",
+      "bytes": 3805,
+      "git_blob_sha1": "934eb7bd354bfe6ee3d4c3b675ba247c389ea155",
+      "sha256": "920f03d7f7f141c0193547f519f44c98ba3ea8e44cf6ebcea939834fb855dd63"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-computational-qa/verify_outputs.py",
+      "bytes": 11026,
+      "git_blob_sha1": "ec578ad1602aeb68d3e7ffc33565fbf30fe24180",
+      "sha256": "7d3ef3adbd8dab611cf432c815ab8bed50e27df6a29e4fed4c7f4c5209d40dda"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/copy-and-portability.json",
+      "bytes": 2024,
+      "git_blob_sha1": "5a30e074af74aff5dd6263a55440c5f9be4dec6c",
+      "sha256": "a735871a747627224392ea30ce39f988dfdb7bc13184ac1068557da0f65598bc"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/derivation-review-provenance-original.json",
+      "bytes": 12322,
+      "git_blob_sha1": "f5523e301caf5917cec138f608d35d6adb3c2065",
+      "sha256": "f40595606eb3742315bb48edf549d3fb237e19d207de86eb8ecf88ddf46af3c1"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/equation-consistency-checks-original-run.json",
+      "bytes": 8904,
+      "git_blob_sha1": "67b3a30d48c0300f719e51002bf2c44ff2428752",
+      "sha256": "732e3165a4fe926a7369b41d334fef8f85d3aa660f4c66542e9bc3564480f5c1"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/equation-consistency-checks.json",
+      "bytes": 8904,
+      "git_blob_sha1": "67b3a30d48c0300f719e51002bf2c44ff2428752",
+      "sha256": "732e3165a4fe926a7369b41d334fef8f85d3aa660f4c66542e9bc3564480f5c1"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/independent-derivation-review-original.md",
+      "bytes": 13887,
+      "git_blob_sha1": "d8a22dc58c5a3515c21ffe79a5aac44fc0eae1cc",
+      "sha256": "0a972ec3b4e9ddab3d87d6c9d7beb934cf7cae91970ac0b79664982f11bc1b24"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/standalone-stderr.txt",
+      "bytes": 0,
+      "git_blob_sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/standalone-stdout.txt",
+      "bytes": 299,
+      "git_blob_sha1": "9b24e89e1969e3c0aa5bede297bfed576aca463f",
+      "sha256": "2f39f2691c1dcaa20d51198c6304172910cb561171a69c86de5d22912b59287f"
+    },
+    {
+      "path": "reproduction/canonical/audit/independent-derivation-review/verify_equation_consistency.py",
+      "bytes": 9858,
+      "git_blob_sha1": "940c0ebe644e7eb953d9c5123e8c9f5f4b60deb2",
+      "sha256": "3f39a65b7cf057b56fec8dd7ed01e3be743aa12bd37037f2550606935cd5e8af"
+    },
+    {
+      "path": "reproduction/canonical/audit/manuscript-analytic-delta-review.json",
+      "bytes": 2199,
+      "git_blob_sha1": "ebf9ed25c2f718304d3296c1bad0ef0c172993e7",
+      "sha256": "66fb3b86105c59aa99a09a4ebd3e5c9943362db4860a9bba2e6bf2a8e478df77"
+    },
+    {
+      "path": "reproduction/canonical/audit/manuscript-analytic-delta-review.md",
+      "bytes": 2130,
+      "git_blob_sha1": "19a8aafde20af2f81cc81ecd794c7eafee658c99",
+      "sha256": "07f26c8f701dcb646c3b646c98d23251a635cc6594eef8212626d6d9e6d69671"
+    },
+    {
+      "path": "reproduction/canonical/audit/manuscript-review-draft.json",
+      "bytes": 4577,
+      "git_blob_sha1": "8ed2d23c680da91f4dfa5a410fc03e4529195635",
+      "sha256": "7c68da8b527a79d7a2133cea6700ca8c981c670da3c4c4477d6537c54278675e"
+    },
+    {
+      "path": "reproduction/canonical/audit/manuscript-review-draft.md",
+      "bytes": 3459,
+      "git_blob_sha1": "b5571cf354a591413d82733048b76e91ae01fa6b",
+      "sha256": "47d122e8918b41834c8d0c0d75b22b3b18ca09166171188645d095fb0a61fc74"
+    },
+    {
+      "path": "reproduction/canonical/audit/primary-reference-review/GX-framework-identification.json",
+      "bytes": 1934,
+      "git_blob_sha1": "c00f855813664e64faa4b25c0d352f1c158eba46",
+      "sha256": "f96c4eee0ad98b4cfa942558fe517ff42f405732b395023dfdf7311c76c0a49e"
+    },
+    {
+      "path": "reproduction/canonical/audit/primary-reference-review/primary-theory-verification.json",
+      "bytes": 9427,
+      "git_blob_sha1": "56651246c6a12dc613dbc1723659776b8fd43c5c",
+      "sha256": "3f923688fa65beb439383b8dd28c359c873bee2afc9b991d358756eb1b56fd12"
+    },
+    {
+      "path": "reproduction/canonical/audit/primary-reference-review/primary-theory-verification.md",
+      "bytes": 14235,
+      "git_blob_sha1": "2bae2b369cca791a7dcc2d247a5b3ee31816606a",
+      "sha256": "96844dff1dd5374afaf8f42d0995a2b2daa17d43e7892953383534d1d78fd9cd"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/accepted-manuscript-manual-save-original.json",
+      "bytes": 1247,
+      "git_blob_sha1": "4dd509cbf6a9884377340665f2c795f6604782e9",
+      "sha256": "970f942a80cc50aa10f73504d694a1df34252542341b985a0548d3f4cc805d5c"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/arxiv-equation-environments-original.json",
+      "bytes": 10298,
+      "git_blob_sha1": "cc59f2885a7aeca95b1ad4fd6e068d0bbbfde8e7",
+      "sha256": "88f3dcf7b5ace33d019445db29174217e9c13233b985ce8fc0cbfc10915a8a8d"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/arxiv-source-v1-inventory-original.json",
+      "bytes": 842,
+      "git_blob_sha1": "30625124af1cc56852b3c0b3967f1121a5a98bca",
+      "sha256": "fc3cef9f288708d043b892a2693f6a29f711764de20f3000c93f09f88df12787"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/arxiv-source-v2-inventory-original.json",
+      "bytes": 3950,
+      "git_blob_sha1": "0751981b5f9dbf70ec9996467ca7ffdaf7d2020a",
+      "sha256": "eb391a28678195acde96c31835b1b958b2952850979ae446b64f7b7e3a0221dc"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/correction-and-deposit-check-original.json",
+      "bytes": 5338,
+      "git_blob_sha1": "7f258e94b0ec0f92e664a944907f16372ae38c8a",
+      "sha256": "3fab7f4a7153fd469766a69a097ddefcc9453a85d02294a33d8cdbc2e4e33672"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/crossref-metadata-original.json",
+      "bytes": 17764,
+      "git_blob_sha1": "dfd05349261e14e1c993ee565413de9024689d02",
+      "sha256": "2aad9f5b75c16391aa0c29e789936840467d02c707ca2026d398d1d22591c110"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/crossref-primary-receipt-original.json",
+      "bytes": 260,
+      "git_blob_sha1": "17a696879795746874db2ad823168e573ae869e6",
+      "sha256": "788fddc1a673efc31eb56194e173776a9dfb36b38f238c5d8d4996a5e5ff9a66"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/download-receipts/arxiv-abs.html.receipt.json",
+      "bytes": 453,
+      "git_blob_sha1": "5f7f8170fb254d0fa4034d272ab189bd203ea92a",
+      "sha256": "c91fc329854aced5a62bda8dd2838cb2a314b403e0b3ed7d8051f299f95f7139"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/download-receipts/arxiv-v1-source.tar.receipt.json",
+      "bytes": 454,
+      "git_blob_sha1": "20712de6f2b510e0600b35f92368a09c0900d25e",
+      "sha256": "eaa03fdbc509d28a459de00a8d0faaa35206fc7a579fcf4bc408bdd9d09f5b5f"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/download-receipts/arxiv-v1.pdf.receipt.json",
+      "bytes": 445,
+      "git_blob_sha1": "e4c0e21fbff38ee889cb70f8ba9ed9d8a394c28b",
+      "sha256": "76e50cf2c6671947054a0c6c89b3367e123bc0f315d8e6a8b24ba66bf2fe2b15"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/download-receipts/arxiv-v2-source.tar.receipt.json",
+      "bytes": 454,
+      "git_blob_sha1": "fd7bd25154a8aa8e6ba5b197427741adc3e6dbf3",
+      "sha256": "fa113c413cb1e0ec24501afd6de6465475f11483414a70cd2157f952e41b653d"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/download-receipts/arxiv-v2.pdf.receipt.json",
+      "bytes": 446,
+      "git_blob_sha1": "b8bded55162f62632bcf3064f8887028428f0d82",
+      "sha256": "0991d9de693aa152d40dead7b2e9cc246951196babfcc57ae8066719777ab659"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/edition-concordance-before-AM-original.md",
+      "bytes": 6710,
+      "git_blob_sha1": "a743d6f43131cb25e0fec45b7a6b3e8e4a2ae961",
+      "sha256": "0b83d953aa95b410b93a75f1268dad245ebb1e8d0b5631691beb9fd51c3eda22"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/edition-concordance-original.md",
+      "bytes": 9136,
+      "git_blob_sha1": "ebb25e12a4248f1d5b4674e6a5a9fb2d912c2f91",
+      "sha256": "58a669ea93e0e4622477c2cff0ea5b6132b3ee4edaa9ffee4aae60c585f87623"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/publisher-access-observation-original.json",
+      "bytes": 1977,
+      "git_blob_sha1": "4f866fead252e0258045c4dc951e46aa92265285",
+      "sha256": "8475656aad057d3055be4e9aa00716601f6d8495ae4542c854036a704a554250"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/source-editions-preflight-before-AM-original.json",
+      "bytes": 9346,
+      "git_blob_sha1": "a03752711532c6c23021e9969f56a565e6585230",
+      "sha256": "41179bbc90888498dc5d3c1c0843082ef01e8cf1e36add155c256b16c18ac546"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-editions/source-editions-preflight-original.json",
+      "bytes": 12072,
+      "git_blob_sha1": "299104f127cddb8b919cca9f47e3970d4f94ad84",
+      "sha256": "fdc0f1074432d16a33313f4a24be3d67fed3af2f4744a945d119c770087c79aa"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-integration-verification.json",
+      "bytes": 7487,
+      "git_blob_sha1": "ce9143e6a82ee9c95c1eb6604f76d05bf1e642a2",
+      "sha256": "0689ac5c3f6a494e827894ed712fed18ab208df4ec7850e0e36405cd0f63778d"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-record-copy-manifest-before-primary.json",
+      "bytes": 7303,
+      "git_blob_sha1": "d4f9c7aee5df27f94ea01d116017ad1b12ef4f62",
+      "sha256": "711f2c7deccff0ef65b768dc002b7abedce650c3b700e2ca6b4b602a0344e4fc"
+    },
+    {
+      "path": "reproduction/canonical/audit/source-record-copy-manifest.json",
+      "bytes": 8455,
+      "git_blob_sha1": "6436216498881252f060ab2414fbe0521fcffbd3",
+      "sha256": "7498541e6dcf50ef8170fa4f5d417d0e0d6db74bb6e48e226bb669fe0f5fd7a1"
+    },
+    {
+      "path": "reproduction/canonical/data/computational-artifact-manifest.json",
+      "bytes": 10489,
+      "git_blob_sha1": "9a194a1368daf3bb12e667e6c19c4f9989d85ce6",
+      "sha256": "1bd491104e32200cb1825e82b93d1610600127c8cff388e784c60b181387f530"
+    },
+    {
+      "path": "reproduction/canonical/data/conditional-exponents.csv",
+      "bytes": 251,
+      "git_blob_sha1": "c8c1b585d2e6684bee002b895ffb6f8a83ae3d0a",
+      "sha256": "c99d51a91e7ac20afd04eb5a91d920880d66a0f0d34cef381d24402f40513603"
+    },
+    {
+      "path": "reproduction/canonical/data/equation-controls.json",
+      "bytes": 71326,
+      "git_blob_sha1": "f3bec5770e3ec90262a53aa2661d3c4d23536df4",
+      "sha256": "4c491f30f75c9ec104b38f52d60a550b9b995051131af56d895d2989ce2cdd70"
+    },
+    {
+      "path": "reproduction/canonical/data/linear-symbol-controls.csv",
+      "bytes": 1225,
+      "git_blob_sha1": "fb9b038f1fc0151e3a9179e4378ec8410212a606",
+      "sha256": "97139a9f2e3ddc57b9a5eed69ea4d8936a4e6c296e2a805c24ece85bd3f82da0"
+    },
+    {
+      "path": "reproduction/canonical/data/periodic-energy-controls.csv",
+      "bytes": 5535,
+      "git_blob_sha1": "b34878a9981f3c11933599bd432419e732831eda",
+      "sha256": "f95f5c4d4225b7991eced6e1a06186fd8d79c65a971e432da3ea4e6c56a19ff7"
+    },
+    {
+      "path": "reproduction/canonical/data/retained-rate-controls.csv",
+      "bytes": 879,
+      "git_blob_sha1": "8374b95f5dad77e10060f78d63c733b6d18dceca",
+      "sha256": "9db6f034f0c1322dc844cc8e7625b009b5e3ea7e915b40e890b11ea144f5c142"
+    },
+    {
+      "path": "reproduction/canonical/data/runtime-environments.json",
+      "bytes": 2158,
+      "git_blob_sha1": "50741394092c2552213a0a716a03db53e0f25a8a",
+      "sha256": "aff0728af16c413c76a31dcdad56385f5bbd03bfbc6aa81400c3f5dc4f040baa"
+    },
+    {
+      "path": "reproduction/canonical/figures/energy-and-wave-controls.png",
+      "bytes": 132377,
+      "git_blob_sha1": "03beb525fd2cb244710458a6791e14c9743e816e",
+      "sha256": "b85c11a18b2bb7f9dc7489e8a1d05949d526461dc6f0fe054963129d17ef0832"
+    },
+    {
+      "path": "reproduction/canonical/figures/hermite-projection-controls.png",
+      "bytes": 149791,
+      "git_blob_sha1": "43d574541bc034b03fe915e20d7f90cd045993e4",
+      "sha256": "dd8ce0c15880b167b1f4f19a01aa48b440eae07bab819d90cd27810a2313be50"
+    },
+    {
+      "path": "reproduction/canonical/paper/build_paper.py",
+      "bytes": 1907,
+      "git_blob_sha1": "22e09a1d3c632de65651bcf1751ea79b9c40529f",
+      "sha256": "46e451218e64572d1c3344374c1e2df670d51c40b8232ea08653651ba13c3506"
+    },
+    {
+      "path": "reproduction/canonical/paper/latex/body.tex",
+      "bytes": 21209,
+      "git_blob_sha1": "f34abfbd1bac74341fcfd1765b4851f4678ec8de",
+      "sha256": "4770fa4fe32af273e8aae9ef0d511ab36ab5e6655df3bab44116b1498faaeb50"
+    },
+    {
+      "path": "reproduction/canonical/paper/latex/images/energy-and-wave-controls.png",
+      "bytes": 132377,
+      "git_blob_sha1": "03beb525fd2cb244710458a6791e14c9743e816e",
+      "sha256": "b85c11a18b2bb7f9dc7489e8a1d05949d526461dc6f0fe054963129d17ef0832"
+    },
+    {
+      "path": "reproduction/canonical/paper/latex/images/hermite-projection-controls.png",
+      "bytes": 149791,
+      "git_blob_sha1": "43d574541bc034b03fe915e20d7f90cd045993e4",
+      "sha256": "dd8ce0c15880b167b1f4f19a01aa48b440eae07bab819d90cd27810a2313be50"
+    },
+    {
+      "path": "reproduction/canonical/paper/latex/main.pdf",
+      "bytes": 350755,
+      "git_blob_sha1": "52726541085a0e1a5088799e3cf22f079ae457af",
+      "sha256": "5136ca9679d7fc15c2fed36126861c6cd0b878b9072dbe23947504fa3449217c"
+    },
+    {
+      "path": "reproduction/canonical/paper/latex/main.tex",
+      "bytes": 904,
+      "git_blob_sha1": "b7a7e938c3bc08bd1221d6063a5beba9905c8c8d",
+      "sha256": "99a0ab96411a12d239751865e8d694dbac0dfb53c78cd8c5a2c7b4f650aa9f9e"
+    },
+    {
+      "path": "reproduction/canonical/paper/main.pdf",
+      "bytes": 350755,
+      "git_blob_sha1": "52726541085a0e1a5088799e3cf22f079ae457af",
+      "sha256": "5136ca9679d7fc15c2fed36126861c6cd0b878b9072dbe23947504fa3449217c"
+    },
+    {
+      "path": "reproduction/canonical/paper/manuscript.md",
+      "bytes": 20117,
+      "git_blob_sha1": "63b786b55b290551de3061734413a27b0d26749e",
+      "sha256": "370c10f8d113a1d721d177ab879696af185c4f575b01bd4ec10b84f5e1fee131"
+    },
+    {
+      "path": "reproduction/canonical/reproduction/run_audit.py",
+      "bytes": 21771,
+      "git_blob_sha1": "7b4d10134337682ee0e333777a4a29fd50bc46e4",
+      "sha256": "c2b7d1428b49ffb1980c5a95fdaa39ded28a17a62b0caf4ec01ab47eb48d1567"
+    },
+    {
+      "path": "reproduction/canonical/requirements.txt",
+      "bytes": 32,
+      "git_blob_sha1": "f900d33694ff2290edc8cedaabebcbaeddf95521",
+      "sha256": "adc7fa5a4dbaa7335c32c1e7d10cffae5c96f67ba2f5f22c8453c1bc11cf8e0a"
+    },
+    {
+      "path": "reproduction/canonical/source-provenance.json",
+      "bytes": 10802,
+      "git_blob_sha1": "37f98a38cef980927964727fc0b6d4b0729c4c1e",
+      "sha256": "8b4d366d4c1a389c3a2741c264c4fa9ed933631048df71e8091df177d1cbaf88"
+    },
+    {
+      "path": "reproduction/canonical/submissions/computational-freeze-v1.0.0.json",
+      "bytes": 11793,
+      "git_blob_sha1": "173d7b9ec00808049f390680d2e92dbcb58d0b41",
+      "sha256": "eb84e298be7952a6ff8800cc17ef878d282d578a9538dd47e9fefdccef4c141f"
+    },
+    {
+      "path": "reproduction/canonical/submissions/computational-publication-verification-v1.0.0.json",
+      "bytes": 11915,
+      "git_blob_sha1": "f28519d6229522122ecd725016b6f156f9d63a33",
+      "sha256": "a2bf2dc433ac1f6619b5c0f017c9c88b30d2f4f17f449168ff853c46505beb8d"
+    },
+    {
+      "path": "reproduction/canonical/submissions/final-pages-and-citation-review.json",
+      "bytes": 8499,
+      "git_blob_sha1": "b6b131b17112d286b94f7573e9c4bba974750079",
+      "sha256": "83624e850286ed5526df8157ad9286d630698240ea7ca3f296860ea18844ca87"
+    },
+    {
+      "path": "reproduction/canonical/submissions/metadata.json",
+      "bytes": 1777,
+      "git_blob_sha1": "20ea1b35f76b0e24f09f4377722f460d6d80ba27",
+      "sha256": "fc9bd265eea1892beff9a31ce9224a58b523694bcd12f68b40bb1898b2306775"
+    },
+    {
+      "path": "reproduction/canonical/submissions/zenodo-code-v1.0.0.json",
+      "bytes": 17973,
+      "git_blob_sha1": "5d148275753bbd5aa9bff0c9c8ff6d725212e374",
+      "sha256": "ec45df898fc542eec9c498b2625503df6987ccff5ff0d10cfdbfe095001171f0"
+    },
+    {
+      "path": "reproduction/independent-preservation-checks.json",
+      "bytes": 22036,
+      "git_blob_sha1": "d6cc518bdf1d58fa9493d57e7b610863f4564e8c",
+      "sha256": "853f83276abbd7aa480e205d3877ac6f5b95fdd3f24d101f5d932931ba2ff8e8"
+    },
+    {
+      "path": "reproduction/independent-review/verify_preservation.py",
+      "bytes": 16063,
+      "git_blob_sha1": "7534e7c8c2632ace17e5ef0f7ed10f38e44cab8d",
+      "sha256": "58a9e8e60721becec884a7f94c9ac1a4ef3cd5f86cb72fab179f8d4f796c4506"
+    },
+    {
+      "path": "reproduction/local-client-compatibility.json",
+      "bytes": 824,
+      "git_blob_sha1": "ccc4dc827615da75e8373cf8571694b481affebf",
+      "sha256": "8adde620c4ba24c55b3101da156e1f24c9ff90454322f9f0f06aea96538be0e7"
+    },
+    {
+      "path": "reproduction/pinned-inputs.json",
+      "bytes": 29081,
+      "git_blob_sha1": "79145d4d47c4b5c87908901bded9debd4918717e",
+      "sha256": "1c6e590b988acdbb94dbc88f1e6521c87058411070286f55eccf176fe7dadaa5"
+    },
+    {
+      "path": "reproduction/prepare_packages.py",
+      "bytes": 41229,
+      "git_blob_sha1": "5a4523841c7e8f1363c0ad1196d8b8259fa0bdfb",
+      "sha256": "53b9bdd3dc36633fac63bf0f25828b6272c44ffa889a519c623570374fb2034e"
+    },
+    {
+      "path": "reproduction/submission-context.json",
+      "bytes": 890,
+      "git_blob_sha1": "dba33f015c5253021682394e30c13729021b7982",
+      "sha256": "fce9935bb7c230df6a136e62df4281056caa5c5974b51b509a3061a7e741cedd"
+    },
+    {
+      "path": "reproduction/venue-format-verification.json",
+      "bytes": 601,
+      "git_blob_sha1": "ab24427d14bd4f7a02af48ed2819352722e04919",
+      "sha256": "b38cfa7a74b5c116a6de44d07f530cbbbfc5b1fc5a582c1f4c7ac92a875321b2"
+    }
+  ],
+  "self_exclusion": "This public verification receipt and PUBLICATION_STATUS.md are subsequent administrative evidence and are outside the initial 92-file commit being verified. They will be committed separately without changing the verified science, adapter, payload pins or copies."
+}
