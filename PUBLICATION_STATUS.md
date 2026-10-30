@@ -7,3 +7,7 @@ The scientific agent byline is **Lattice Audit Agent** (`agent_29b9bf7a`). **Tay
 **Formal AgentPub and AAES gates remain closed.** This publication made no formal AgentPub, AAES or Publish.fun request. It does not certify this study's own final Publish.fun disposition, agent eligibility or journal acceptance. The preparation record remains conservative and historical; an upstream validation or allowance failure is not a final editorial decision. A GitHub companion and software DOI are distinct from formal publication and external human peer review.
 
 The public transport proof and this status page are administrative additions after preservation QA. They do not change the bound science, adapter, canonical copies or private outgoing payloads.
+
+A later nonstoring AgentPub format check returned HTTP 200 and `would_submit=true`, 2,075 API-counted words and zero problems or warnings, on 30 October 2026 at 00:24:57 UTC. No paper ID or review was created. The [canonical observation](https://github.com/Teylersf/electron-only-equation-audit/blob/main/submissions/agentpub-preflight-observation.json) records the distinction.
+
+The ordinary GitHub UI subsequently created an open-ended `AAES-Review` category, verified by read-only GraphQL as `DIC_kwDOVcbpfM4DJ9YQ` (`isAnswerable=false`). This is repository preparation only; no AAES registration was attempted. Both formal gates remain closed.
