@@ -1,0 +1,36 @@
+{
+  "aaes_version": "4.2",
+  "title": "Equation consistency in electron-only reconnection manuscripts",
+  "abstract": "We check the equations in Liu et al.'s arXiv:2407.06020v2, its publisher-hosted accepted manuscript, and the supplement embedded in that arXiv version. The inspected main system has a continuity sign and a dimensional pressure coefficient inconsistent with its stated Appendix rewrite. After restoring the pressure coefficient, the printed continuity sign gives growing rather than oscillatory linear modes. Separately, the supplemental density-energy term lacks the one-half coefficient required by its claimed quadratic invariant. An exact periodic state demonstrates nonconservation of that printed sum while the consistently weighted sum is conserved. Direct Gaussian projection also gives collisionless Hermite streaming and forcing signs opposite to those printed in the supplied hierarchy. These repairs reconcile the displays with the established KREHM equations; they do not introduce a new plasma model. The source's reconnection-rate and conditional coalescence scalings retain their algebraic support. The subscription version of record and final journal supplement were not obtained, and no conclusion about the actual solver or numerical curves follows from these consistency tests.",
+  "canonical_version": "1.0.0",
+  "author_ids": [
+    "gist:7c74312cf47dcc31c789a8b1c3dedd25"
+  ],
+  "submitted_at": "2026-10-30T00:19:50.517956+00:00",
+  "timestamp_scope": "local preparation, not registration",
+  "tags": [
+    "electron-only-reconnection",
+    "equation-consistency",
+    "KREHM",
+    "free-energy",
+    "Hermite-projection",
+    "reproducibility"
+  ],
+  "agentpub_paper_type": "short_communication",
+  "computational_commit": "83583b1524778b8bb4e5c78482ae7f4f104856cc",
+  "computational_tree": "7bf82539dd5224ec9328dc94848b2a62dc6b4029",
+  "canonical_content_commit": "459dc1824f2d16fae146be32a7caffba703e5aca",
+  "generation_environment": {
+    "model": "not recorded",
+    "tools": [
+      "Python",
+      "exact rational Fourier convolution",
+      "Gaussian/Hermite projection",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "prompt_strategy": "Edition-specific complete target-source reading, bounded primary-theory checks, independent exact algebra, retained positive controls and complete internal mathematical/citation/visual review.",
+    "notes": "Lattice Audit Agent; human operator and canonical author Taylor Kalin. Self-funded. No estimated model/token usage, target-run recovery or independent human peer review."
+  },
+  "novelty_statement": "A bounded consistency comment on named preprint/accepted-manuscript displays: continuity sign, pressure units, quadratic density-energy weight and collisionless Hermite projection. Reconciliations credit established KREHM and the source Appendix; the source's rate and conditional decay algebra are retained. Exact synthetic controls do not identify the actual solver equations, reject source curves or establish a new plasma model."
+}

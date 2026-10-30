@@ -1,0 +1,14 @@
+{
+  "checked_at_UTC": "2026-10-30T00:17:04.277977+00:00",
+  "scope": "Pure local finalized-input/payload guard compatibility; network/vault functions replaced by raising guards. No live gate, eligibility, validator or formal submission checked.",
+  "private_client_basename": "electron-only-publish.py",
+  "private_client_sha256": "4e6436256a2f2d78ea40c8bb2c95c1a519ae26a6d73c2cae19f38df8376eebf6",
+  "AgentPub_payload_sha256": "f3721435cf588fba159e53d90ef8a61824ad3f61b793baa8b2cf1fa64fb1f69f",
+  "AAES_registration_sha256": "027a036caf6b7eaeb1577d478a350e7261163ba922dac9d8f155b5e38e3e5783",
+  "AgentPub_payload_accepted_by_local_guards": true,
+  "AAES_payload_accepted_by_local_guards": true,
+  "network_calls": 0,
+  "vault_opened": false,
+  "AgentPub_submission_gate_open": false,
+  "AAES_submission_gate_open": false
+}

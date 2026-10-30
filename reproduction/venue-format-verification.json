@@ -1,0 +1,10 @@
+{
+  "scope": "Cached official primary schema/instructions reused offline; no new API request.",
+  "source_snapshot_from": "Source8 preparation,29October2026; format remains explicitly version1 in snapshot.",
+  "schema_URL": "https://api.agentpub.org/v1/templates/paper",
+  "instructions_URL": "https://api.agentpub.org/v1/instructions",
+  "schema_sha256": "e62bc0d9369ae2a3b38161340887a7ef08c7736a46ac186f40ffe424b5370847",
+  "instructions_sha256": "771252106a551f2d891033af42be14a827a54c86ef8d6274da8b58f62e4eb554",
+  "paper_type": "short_communication",
+  "nonstoring_validation_performed": false
+}

@@ -1,0 +1,21 @@
+# Reproduction and preservation
+
+55 exact computational source/code/data/review files are bundled at H 83583b1524778b8bb4e5c78482ae7f4f104856cc, distinct tree 7bf82539dd5224ec9328dc94848b2a62dc6b4029. Seventeen final paper/TeX/build/metadata/review-support files are pinned separately at release 459dc1824f2d16fae146be32a7caffba703e5aca. Every path, role, byte count and SHA256 is recorded in pinned-inputs.json. Historical prior-review records are identified as history; the final all-page receipt binds the final manuscript/PDF. Third-party PDFs and private operational records are excluded.
+
+Run the offline adapter from this agent repository with ordinary Python 3; no Git, canonical checkout, credentials, PDF source, network or scientific producer execution is required. Place outgoing API bodies outside both public repositories.
+
+```text
+python reproduction/prepare_packages.py --outgoing-dir OUTSIDE_PUBLIC_REPOS --expected-code-commit 83583b1524778b8bb4e5c78482ae7f4f104856cc --expected-code-tree 7bf82539dd5224ec9328dc94848b2a62dc6b4029 --canonical-content-commit 459dc1824f2d16fae146be32a7caffba703e5aca --expected-manuscript-sha256 370c10f8d113a1d721d177ab879696af185c4f575b01bd4ec10b84f5e1fee131 --expected-pdf-sha256 5136ca9679d7fc15c2fed36126861c6cd0b878b9072dbe23947504fa3449217c --expected-input-inventory-sha256 1c6e590b988acdbb94dbc88f1e6521c87058411070286f55eccf176fe7dadaa5
+```
+
+The adapter verifies all 72 pinned blobs, exact 55-file manifest coverage (54+self), paper/metadata hashes and the entire scientific text after reversing only declared routes, added source headings and prose citation substitutions. All 12 numbered equations, both complete figure/caption pairs, full bibliography and original disclosures remain. Local paper.md and agent-paper.md retain numeric citations; AgentPub alone uses the documented author-year style, with a complete reversal ledger. There is no scientific shortening, numeric truncation, citation padding or whitespace-based cap workaround.
+
+The seven venue sections preserve original scientific order. Source section 1 is split into Introduction/Related Work; Methodology contains section 2; Results 3-4; Discussion 5 plus verification paragraphs at the start of 6; Limitations the next GX/reproducibility paragraph; Conclusion the remaining conclusions/availability/disclosures. Four source subheadings are separately recorded and exactly removable. The source equations and proofs remain complete; no claim depends on a platform viewer rendering table math or Markdown images. Use the canonical PDF for complete typesetting.
+
+To reproduce scientific controls, use canonical/REPRODUCIBILITY.md and canonical/COMPUTATIONAL_METHODS.md. The original producer and separate verifiers remain byte-exact at H; this adapter does not execute them. The archived README correctly describes its historical code-only release and is not substituted with the newer canonical administrative README.
+
+**Git transport:** all copied blobs are -text; JSON/CSV and original Markdown line endings must remain exact. The immutable copied .gitignore ignores its own paper/submissions descendants. Future publication must force-add every 72 inventory path explicitly and verify the public Git archive; do not rewrite frozen ignore/attribute files to change this. This preparer performs no Git operation.
+
+Official AgentPub instructions/schema are cached primary format evidence reused offline, not a fresh live check. The selected short_communication constraints require 1500-4000 body words and five references; every section is conservatively capped at 49000 Unicode/UTF16 units. No nonstoring check or formal call is made by this script. The agent root metadata timestamp denotes preparation, not AAES registration. Model/token usage is unrecorded and not estimated.
+
+Both formal agent gates remain false. The separate scoped publishing client must verify this study's own final Publish.fun disposition before any future formal review. A quota/validation failure, another study's rejection, GitHub preprint or software DOI is insufficient. Canonical authorship remains Taylor Kalin; authorized agent-only byline is Lattice Audit Agent with Taylor as human operator. Internal AI-assisted review is not external human peer review.
